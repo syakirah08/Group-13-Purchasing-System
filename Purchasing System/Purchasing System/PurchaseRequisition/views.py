@@ -18,8 +18,7 @@ from django.forms import formset_factory
 from django.http.request import QueryDict
 from decimal import Decimal
 import random
-import datetime
-import randomThing
+import datetime 
 
 
 @login_required
